@@ -16,3 +16,6 @@ $ pip install Cython
 $ python setup.py build_ext --inplace
 $ python setup.py bdist_wheel
 ```
+
+
+# https://medium.com/swlh/distributing-python-packages-protected-with-cython-40fc29d84caf
